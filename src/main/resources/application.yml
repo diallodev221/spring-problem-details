@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-problem-details
+  h2:
+    console:
+      enabled: true
+  sql:
+    init:
+      mode: always
